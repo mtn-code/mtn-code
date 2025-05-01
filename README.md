@@ -41,11 +41,12 @@ Here are some ideas to get you started:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visual studio" width="45" height="45" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="visual studio code" width="45" height="45" />      
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="45" height="45"/>
-      <h2>Engines & 3D Tools</h2>
+      <h2>Engines & 3D Tools</h2><p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" alt="unrealengine" width="45" height="45"/>  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original-wordmark.svg"  alt="maya" width="45" height="45"/>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="3dsmax" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="3dsmax" width="45" height="45"/></p>
 <h2>Creative Tools</h2>
+<p>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="adobeIllustrator" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="adobeIllustrator" width="45" height="45"/>        
