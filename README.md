@@ -1,7 +1,9 @@
 # Hi I'm Maarten | **.NET Developer**
 - I live in Ghent, Belgium
 - I'm currently completing my **.Net Developer** course in Ghent.
-## 📫 How to reach me
+- Open for new opportunities.
+
+## How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maartenvanrooy)
 
 <!--
