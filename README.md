@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/>
     </p>
     
