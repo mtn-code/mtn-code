@@ -1,4 +1,4 @@
-# Hi I'm Maarten | **.Software Developer**
+# Hi I'm Maarten | **Software Developer**
 - I live in Ghent, Belgium
 - Currently working at Linea Trovata in Lokeren.
 
