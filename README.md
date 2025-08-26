@@ -1,7 +1,6 @@
-# Hi I'm Maarten | **.NET Developer**
+# Hi I'm Maarten | **.Software Developer**
 - I live in Ghent, Belgium
-- I'm currently completing my **.Net Developer** course in Ghent.
-- Open for new opportunities.
+- Currently working at Linea Trovata in Lokeren.
 
 ## How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maartenvanrooy)
